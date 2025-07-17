@@ -60,7 +60,7 @@
             Console.WriteLine(SampleUnbox);
 
             //enum
-            //
+            //{...}
 
             //class : reference type details
             Student stu; //根據Student這個類別在ram中切一塊32bit的大小擺放 內容為0 => 記憶體位址: 10000010
