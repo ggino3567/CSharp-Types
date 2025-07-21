@@ -7,6 +7,7 @@ namespace TypeInCSharp
         static void Main(string[] args)
         {
             //容易搞錯:
+            //多留意StackFrame: 劉老師Ch09最後一段說明
             //static靜態方法: 不需實例化可直接調用、一運作就存在
             Student.GetStudent(); //這就是靜態方法
             Student student = new Student();
